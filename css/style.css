@@ -1,0 +1,93 @@
+.thing {
+  width: 50%;
+  margin: auto;
+}
+
+.flow-text {
+  font-weight: 300;
+}
+@media only screen and (min-width: 360px) {
+  .flow-text {
+    font-size: 14px;
+  }
+}
+@media only screen and (min-width: 400px) {
+  .flow-text {
+    font-size: 16.1px;
+  }
+}
+@media only screen and (min-width: 440px) {
+  .flow-text {
+    font-size: 18.2px;
+  }
+}
+@media only screen and (min-width: 480px) {
+  .flow-text {
+    font-size: 20.3px;
+  }
+}
+@media only screen and (min-width: 520px) {
+  .flow-text {
+    font-size: 22.4px;
+  }
+}
+@media only screen and (min-width: 560px) {
+  .flow-text {
+    font-size: 24.5px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .flow-text {
+    font-size: 26.6px;
+  }
+}
+@media only screen and (min-width: 640px) {
+  .flow-text {
+    font-size: 28.7px;
+  }
+}
+@media only screen and (min-width: 680px) {
+  .flow-text {
+    font-size: 30.8px;
+  }
+}
+@media only screen and (min-width: 720px) {
+  .flow-text {
+    font-size: 32.9px;
+  }
+}
+@media only screen and (min-width: 760px) {
+  .flow-text {
+    font-size: 35px;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .flow-text {
+    font-size: 37.1px;
+  }
+}
+@media only screen and (min-width: 840px) {
+  .flow-text {
+    font-size: 39.2px;
+  }
+}
+@media only screen and (min-width: 880px) {
+  .flow-text {
+    font-size: 41.3px;
+  }
+}
+@media only screen and (min-width: 920px) {
+  .flow-text {
+    font-size: 43.4px;
+  }
+}
+@media only screen and (min-width: 960px) {
+  .flow-text {
+    font-size: 45.5px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .flow-text {
+    font-size: 1.2rem;
+  }
+}
